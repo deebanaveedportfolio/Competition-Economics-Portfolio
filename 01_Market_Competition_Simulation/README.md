@@ -25,3 +25,4 @@ Market Simulation, Regression Analysis, KPI Tracking, R, Data Visualization
 **How to Run:**  
 1. Open `market_simulation.R` in R or RStudio.  
 2. Run the script — all charts and regression tables generate automatically from simulated data.
+![Market Share Chart](market_charts.png)
